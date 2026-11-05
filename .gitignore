@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.zip
+*.log
+*.bak
+node_modules/
+profile-*/
+ui-evidence*/
+connection-evidence*/
